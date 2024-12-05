@@ -1,0 +1,48 @@
+{"level":"info","message":"Usuario Login: karina","name":"Inicio de sesion","stack":"Info","timestamp":"2024-12-05T17:33:54.961Z"}
+{"level":"info","message":"Sistema de logging configurado correctamente.","timestamp":"2024-12-05T17:45:07.862Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T17:45:07.869Z"}
+{"level":"info","message":"Servidor iniciado en puerto 5000","timestamp":"2024-12-05T17:45:07.965Z"}
+{"level":"info","message":"Conectado a la base de datos MongoDB.","timestamp":"2024-12-05T17:45:07.986Z"}
+{"level":"warn","message":"Intento de inicio de sesión fallido: Usuario nancy no encontrado.","timestamp":"2024-12-05T17:45:39.585Z"}
+{"level":"warn","message":"Intento de inicio de sesión fallido: Contraseña incorrecta para karina.","timestamp":"2024-12-05T17:45:52.410Z"}
+{"level":"info","message":"Inicio de sesión exitoso para el usuario: karina","timestamp":"2024-12-05T17:46:01.149Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T17:56:12.763Z"}
+{"level":"info","message":"Servidor activo en: https://127.0.0.1:5000","timestamp":"2024-12-05T17:56:12.857Z"}
+{"level":"info","message":"Conectado a MongoDB...","timestamp":"2024-12-05T17:56:12.873Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T17:57:54.609Z"}
+{"level":"info","message":"Servidor activo en: https://127.0.0.1:5000","timestamp":"2024-12-05T17:57:54.706Z"}
+{"level":"info","message":"Conectado a MongoDB...","timestamp":"2024-12-05T17:57:54.725Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T19:02:33.972Z"}
+{"level":"info","message":"Servidor activo en: https://127.0.0.1:5000","timestamp":"2024-12-05T19:02:34.085Z"}
+{"level":"info","message":"Conectado a MongoDB...","timestamp":"2024-12-05T19:02:34.108Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T19:05:14.585Z"}
+{"level":"info","message":"Servidor activo en: https://127.0.0.1:5000","timestamp":"2024-12-05T19:05:14.675Z"}
+{"level":"info","message":"Conectado a MongoDB...","timestamp":"2024-12-05T19:05:14.691Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T19:06:16.864Z"}
+{"level":"info","message":"Servidor activo en: https://127.0.0.1:3000","timestamp":"2024-12-05T19:06:16.953Z"}
+{"level":"info","message":"Conectado a MongoDB...","timestamp":"2024-12-05T19:06:16.971Z"}
+{"level":"info","message":"Sistema de logging configurado correctamente.","timestamp":"2024-12-05T19:22:20.869Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T19:22:20.875Z"}
+{"level":"info","message":"Servidor iniciado en puerto 3000","timestamp":"2024-12-05T19:22:20.957Z"}
+{"level":"info","message":"Conectado a la base de datos MongoDB.","timestamp":"2024-12-05T19:22:20.976Z"}
+{"level":"warn","message":"Intento de inicio de sesión fallido: Usuario nana no encontrado.","timestamp":"2024-12-05T19:22:38.496Z"}
+{"level":"warn","message":"Intento de inicio de sesión fallido: Usuario  no encontrado.","timestamp":"2024-12-05T19:22:47.611Z"}
+{"level":"warn","message":"Intento de inicio de sesión fallido: Usuario nancy no encontrado.","timestamp":"2024-12-05T19:22:54.785Z"}
+{"level":"info","message":"Inicio de sesión exitoso para el usuario: karina","timestamp":"2024-12-05T19:23:08.871Z"}
+{"level":"debug","message":"Página de inicio accesada por el usuario: karina","timestamp":"2024-12-05T19:23:14.635Z"}
+{"level":"info","message":"Sesión cerrada exitosamente.","timestamp":"2024-12-05T19:23:17.041Z"}
+{"level":"info","message":"Sistema de logging configurado correctamente.","timestamp":"2024-12-05T19:54:26.596Z"}
+{"level":"debug","message":"Middlewares inicializados correctamente.","timestamp":"2024-12-05T19:54:26.605Z"}
+{"level":"info","message":"Servidor iniciado en puerto 3000","timestamp":"2024-12-05T19:54:26.707Z"}
+{"level":"info","message":"Conectado a la base de datos MongoDB.","timestamp":"2024-12-05T19:54:26.726Z"}
+{"level":"debug","message":"Página de registro accesada.","timestamp":"2024-12-05T19:54:35.827Z"}
+{"level":"info","message":"Usuario registrado exitosamente: lenzho","timestamp":"2024-12-05T19:54:50.309Z"}
+{"level":"info","message":"Inicio de sesión exitoso para el usuario: karina","timestamp":"2024-12-05T19:55:27.933Z"}
+{"level":"info","message":"Ruta /no-sidebar accedida","stack":"INFO","timestamp":"2024-12-05T19:55:34.371Z","user":"karina"}
+{"level":"info","message":"Renderizando página no-sidebar con sesión activa","role":"user","stack":"INFO","timestamp":"2024-12-05T19:55:34.372Z","user":"karina"}
+{"level":"info","message":"Ruta /right-sidebar accedida","stack":"INFO","timestamp":"2024-12-05T19:55:35.633Z","user":"karina"}
+{"level":"info","message":"Renderizando página right-sidebar con sesión activa","role":"user","stack":"INFO","timestamp":"2024-12-05T19:55:35.633Z","user":"karina"}
+{"level":"info","message":"Ruta /left-sidebar accedida","stack":"INFO","timestamp":"2024-12-05T19:55:36.479Z","user":"karina"}
+{"level":"info","message":"Renderizando página left-sidebar con sesión activa","role":"user","stack":"INFO","timestamp":"2024-12-05T19:55:36.479Z","user":"karina"}
+{"level":"debug","message":"Página de inicio accesada por el usuario: karina","timestamp":"2024-12-05T19:55:37.417Z"}
+{"level":"info","message":"Sesión cerrada exitosamente.","timestamp":"2024-12-05T19:55:39.805Z"}

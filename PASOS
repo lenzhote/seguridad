@@ -1,0 +1,29 @@
+1. Crear carpeta server
+2. Iniciar proyecto: npm init (En caso de pasarlo cambiar el autor en el package.json )
+3. Agregar carpetas:
+    -server/models
+    -server/public
+    -server/views
+
+4. Agregar archivos:
+    -server/models/server.js
+    -server/public/index.html
+    -server/app.js
+    -server/.env
+
+5. Instalar dependencias:
+    -express
+    -dotenv
+    
+6. Codificar archivos:
+7.Iniciar el servidor: node app
+
+8.Agregar plantilla
+
+9.Agregar https
+    -Generar clave y certificado
+    openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -sha256 -days 3650 -nodes
+
+10. Instalar modulos https y fs  
+11. Modificar server.js 
+
